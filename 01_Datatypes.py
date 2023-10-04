@@ -30,7 +30,7 @@ Is_Python_Good = True
 # Lists
 
 '''
-List is a collection of items, which can old different data types. In JavaScript, we call it ARRAY. A list can be altered or changed.
+List is a collection of items, which can hold different data types. In JavaScript, we call it ARRAY. A list can be altered or changed.
 '''
 
 fruits = ["apple", "banana", "cherry"]
