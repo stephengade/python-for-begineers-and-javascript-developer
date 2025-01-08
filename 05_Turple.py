@@ -9,7 +9,7 @@ counts = (1, 2, 3, 4, 5) # or just 1, 2, 3, 4, 5
 # Accessing
 
 '''
-You access each item based on their index, just like list... remember, indices start from 0
+You access each item based on its index, just like list... remember, indices start from 0
 '''
 
 counts[1] # will return 2
@@ -24,7 +24,7 @@ counts * 3 # will return (1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 5)
 
 # You can also merge multiple turples together by concatenation
 
-counts_2 = 7,8,9,10,11
+counts_2 = 7,8,9,10,11,12,13,14,15
 
-counts + counts_2 # will return (1, 2, 3, 4, 5, 7, 8, 9, 10, 11)
+counts + counts_2 # will return (1, 2, 3, 4, 5, 7, 8, 9, 10, 11,12,13,14,15)
 
